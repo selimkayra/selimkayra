@@ -2,7 +2,7 @@
 
 # Hi, I'm Selim Kayra Aydın 👋
 
-🎓 B.Sc. in Computer Engineering, Sivas Cumhuriyet University (2026)
+🎓 CENG, Sivas Cumhuriyet University (2026)
 
 Building real-world software while continuously learning and improving.
 
@@ -51,9 +51,5 @@ I enjoy learning new technologies, solving real-world problems and turning ideas
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
 </div>
