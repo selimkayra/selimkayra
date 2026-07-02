@@ -1,27 +1,16 @@
 <div>
 
-# Hi, I'm Selim Kayra Aydın 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Selim+Kayra+Ayd%C4%B1n)](https://git.io/typing-svg)
 
 🎓 CENG, Sivas Cumhuriyet University (2026)
 
-Building real-world software while continuously learning and improving.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer;JavaScript+%26+TypeScript;Node.js+%26+NestJS;React+%26+React+Native;Building+Real-World+Projects)](https://git.io/typing-svg)
+💻 Interested in developing modern web and mobile applications.
 
 </div>
 
 ---
-## 👨‍💻 About Me
 
-I'm a Computer Engineering graduate who enjoys building web and mobile applications using modern technologies.
-
-Currently, I'm developing an AI-powered perfume discovery platform inspired by Fragrantica while continuing to improve my backend and frontend development skills.
-
-I enjoy learning new technologies, solving real-world problems and turning ideas into functional software.
-
----
-
-## 📫 Connect With Me
+## 📫 Contact
 
 <div>
 
