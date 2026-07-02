@@ -11,6 +11,7 @@ Building real-world software while continuously learning and improving.
 </div>
 
 ---
+## 👨‍💻 About Me
 
 I'm a Computer Engineering graduate who enjoys building web and mobile applications using modern technologies.
 
