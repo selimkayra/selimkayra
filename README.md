@@ -91,8 +91,4 @@ Currently building an AI-powered perfume discovery platform inspired by Fragrant
 
 ---
 
-<div align="center">
 
-*"Code is not just about making things work — it's about building experiences that last."*
-
-</div>
