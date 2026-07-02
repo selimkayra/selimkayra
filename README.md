@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Hi, I'm Selim Kayra Aydın 👋
 
@@ -63,10 +63,6 @@ I enjoy learning new technologies, solving real-world problems and turning ideas
 
 ---
 
-<div align="center">
 
-![](https://komarev.com/ghpvc/?username=selimkayra&style=for-the-badge)
-
-</div>
 
 ---
