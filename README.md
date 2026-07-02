@@ -2,24 +2,25 @@
 
 # Hi, I'm Selim Kayra Aydın 👋
 
+### Software Developer
 
 🎓 B.Sc. in Computer Engineering, Sivas Cumhuriyet University (2026)
 
-Building scalable web & mobile applications with modern technologies.
+Building real-world software while continuously learning and improving.
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Node.js+%26+NestJS+Developer;React+%26+React+Native;Building+AI-Powered+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer;JavaScript+%26+TypeScript;Node.js+%26+NestJS;React+%26+React+Native;Building+Real-World+Projects)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-I'm a Full Stack Developer with a strong focus on backend development, scalable architectures and modern web technologies.
+I'm a Computer Engineering graduate who enjoys building web and mobile applications using modern technologies.
 
-Currently, I'm developing an AI-powered perfume discovery platform inspired by Fragrantica, designed to deliver intelligent recommendations through a fast and scalable backend.
+Currently, I'm developing an AI-powered perfume discovery platform inspired by Fragrantica while continuing to improve my backend and frontend development skills.
 
-I enjoy building reliable software, designing clean APIs and creating user-friendly web and mobile applications.
+I enjoy learning new technologies, solving real-world problems and turning ideas into functional software.
 
 ---
 
@@ -43,43 +44,22 @@ I enjoy building reliable software, designing clean APIs and creating user-frien
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,mongodb,postgres,redis" />
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=react,reactnative" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
 </div>
-
----
-
-## 💡 Interests
-
-- 📱 Mobile Application Development
-- 🌐 Web Development
-- ⚙️ Backend Engineering
-- 🎨 UI & Web Design
-- 🖥️ Frontend Development
-- 🚀 REST API Development
-- 🏗️ Scalable System Design
-
----
-
-## 🚀 Current Project
-
-### 🌸 AI-Powered Perfume Recommendation Platform
-
-Currently building an AI-powered perfume discovery platform inspired by Fragrantica. The project focuses on intelligent recommendations, advanced search capabilities, scalable backend architecture and a clean, modern user experience.
 
 ---
 
@@ -90,5 +70,3 @@ Currently building an AI-powered perfume discovery platform inspired by Fragrant
 </div>
 
 ---
-
-
