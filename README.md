@@ -2,6 +2,8 @@
 
 # Hi, I'm Selim Kayra Aydın 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer;JavaScript+%26+TypeScript;Node.js+%26+NestJS;React+%26+React+Native;Building+Real-World+Projects)](https://git.io/typing-svg)
+
 ### Software Developer
 
 🎓 B.Sc. in Computer Engineering, Sivas Cumhuriyet University (2026)
@@ -9,8 +11,6 @@
 Building real-world software while continuously learning and improving.
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer;JavaScript+%26+TypeScript;Node.js+%26+NestJS;React+%26+React+Native;Building+Real-World+Projects)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ I enjoy learning new technologies, solving real-world problems and turning ideas
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div>
 
 <a href="https://www.linkedin.com/in/selim-kayra-aydin-668b0823b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -60,9 +60,3 @@ I enjoy learning new technologies, solving real-world problems and turning ideas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
 </div>
-
----
-
-
-
----
