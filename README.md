@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer;JavaScript+%26+TypeScript;Node.js+%26+NestJS;React+%26+React+Native;Building+Real-World+Projects)](https://git.io/typing-svg)
 
-### Software Developer
+
 
 🎓 B.Sc. in Computer Engineering, Sivas Cumhuriyet University (2026)
 
